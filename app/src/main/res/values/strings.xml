@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">DHR Restaurant</string>
+    <string name="action_login">Masuk</string>
+
+    <string name="pls_wait">Tunggu...</string>
+    <string name="see_all">Lihat Lainnya</string>
+
+    <string name="price_for_two">Harga untuk 2: Rp %1$s</string>
+
+    <string name="review">Ulasan</string>
+    <string name="photo">Foto</string>
+    <string name="been_here">Telah Disini</string>
+    <string name="share">Bagikan</string>
+    <string name="rate_place">Berikan penilaian</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+
+    <string name="details">Detail</string>
+    <string name="address">Alamat</string>
+
+    <string name="avg_cost_lbl">Rata-rata Harga</string>
+    <string name="avg_cost">%1$s untuk dua orang - Halal</string>
+
+    <string name="avg_cost_short"> Rp %1$s untuk dua orang</string>
+
+    <string name="bogo_offers">BOGO Offers</string>
+    <string name="user_experience">Pengalaman Pengguna : %1$s</string>
+
+    <string name="coming_soon">Segera...</string>
+    <string name="check_internet">Periksa Koneksi Internet Anda!</string>
+
+    <string name="recommendation">Rekomendasi untuk Kamu!</string>
+    
+    <string name="try_search_better">Gunakan penulisa kota yang tepat!</string>
+
+    <string name="city_hint">Cari kota disini...</string>
+
+</resources>
